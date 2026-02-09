@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sanjanathana29/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sanjanathana29/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Sanjanathana29/Leetcode/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/Sanjanathana29/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanjanathana29/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sanjanathana29/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Sanjanathana29/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Sanjanathana29/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sanjanathana29/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Sanjanathana29/Leetcode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
