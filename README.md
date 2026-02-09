@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/Sanjanathana29/Leetcode/tree/master/0709-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/Sanjanathana29/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanjanathana29/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanjanathana29/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
