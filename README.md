@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sanjanathana29/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjanathana29/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sanjanathana29/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
