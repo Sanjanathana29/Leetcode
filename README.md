@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 | [1732-find-the-highest-altitude](https://github.com/Sanjanathana29/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjanathana29/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanjanathana29/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/Sanjanathana29/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjanathana29/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Linked List
 |  |
 | ------- |
