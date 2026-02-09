@@ -168,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/Sanjanathana29/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sanjanathana29/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
