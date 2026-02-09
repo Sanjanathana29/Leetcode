@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/Sanjanathana29/Leetcode/tree/master/0709-to-lower-case) |
+| [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjanathana29/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
+| [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Union-Find
 |  |
 | ------- |
