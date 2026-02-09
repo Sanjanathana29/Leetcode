@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sanjanathana29/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Sanjanathana29/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sanjanathana29/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjanathana29/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Sanjanathana29/Leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sanjanathana29/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
