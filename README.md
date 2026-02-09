@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanathana29/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjanathana29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sanjanathana29/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjanathana29/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanathana29/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Sanjanathana29/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sanjanathana29/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjanathana29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
