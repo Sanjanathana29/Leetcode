@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sanjanathana29/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sanjanathana29/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanjanathana29/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Linked List
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0063-unique-paths-ii) |
+| [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanjanathana29/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
