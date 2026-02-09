@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sanjanathana29/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Sanjanathana29/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sanjanathana29/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanjanathana29/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanjanathana29/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjanathana29/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/Sanjanathana29/Leetcode/tree/master/0709-to-lower-case) |
 | [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanjanathana29/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanjanathana29/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Sanjanathana29/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Sanjanathana29/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sanjanathana29/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanjanathana29/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Brainteaser
 |  |
 | ------- |
