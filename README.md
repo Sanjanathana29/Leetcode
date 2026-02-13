@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sanjanathana29/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanjanathana29/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Sanjanathana29/Leetcode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Sanjanathana29/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Sanjanathana29/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sanjanathana29/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjanathana29/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjanathana29/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Sanjanathana29/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0125-valid-palindrome) |
+| [2396-strictly-palindromic-number](https://github.com/Sanjanathana29/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Sanjanathana29/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
