@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sanjanathana29/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanjanathana29/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanjanathana29/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/Sanjanathana29/Leetcode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjanathana29/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Sanjanathana29/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/Sanjanathana29/Leetcode/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanjanathana29/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanjanathana29/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/Sanjanathana29/Leetcode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Sanjanathana29/Leetcode/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjanathana29/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
+| [2418-sort-the-people](https://github.com/Sanjanathana29/Leetcode/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
