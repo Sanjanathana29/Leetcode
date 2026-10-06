@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sanjanathana29/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanjanathana29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Sanjanathana29/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sanjanathana29/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sanjanathana29/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sanjanathana29/Leetcode/tree/master/0217-contains-duplicate) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjanathana29/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Sanjanathana29/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0152-maximum-product-subarray](https://github.com/Sanjanathana29/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Sanjanathana29/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 | [1668-maximum-repeating-substring](https://github.com/Sanjanathana29/Leetcode/tree/master/1668-maximum-repeating-substring) |
