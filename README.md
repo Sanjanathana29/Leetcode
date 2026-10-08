@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sanjanathana29/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sanjanathana29/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sanjanathana29/Leetcode/tree/master/0342-power-of-four) |
+| [0866-prime-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Sanjanathana29/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sanjanathana29/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanjanathana29/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sanjanathana29/Leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/Sanjanathana29/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sanjanathana29/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Sanjanathana29/Leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
